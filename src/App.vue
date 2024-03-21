@@ -11,7 +11,7 @@ const router = useRouter()
 
 
 onMounted(() => {
-  router.push(`/${i18n.global.fallbackLocale.value}`)
+  router.push(`/${document.documentElement.lang}`)
 })
 </script>
 
