@@ -1,0 +1,345 @@
+{
+  "basics": {
+    "name": "David Figuera",
+    "alias": "Seevt",
+    "label": "Desarrolador de aplicaciones web enfocado en el Front End.",
+    "image": "/me.webp",
+    "email": "daavidjesuus2019@gmail.com",
+    "phone": "+34 611625243",
+    "url": "https://seevt.dev",
+    "about": {
+      "title": "Sobre mí",
+      "summary": "Front-End Developer con experiencia en frameworks y librerías como Vue, React y Svelte. Me encanta crear interfaces de usuario intuitivas y estéticas. Constantemente actualizando mis conocimientos con las tendencias tecnológicas para proveer mejores soluciones."
+    },
+    "location": {
+      "postalCode": "18015",
+      "city": "Granada",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Seevt",
+        "url": "https://github.com/Seevt"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Seevt",
+        "url": "https://www.linkedin.com/in/david-jesús-figuera-33a593261/"
+      }
+    ]
+  },
+  "experience_title": "Experiencia",
+
+  "work": [
+    {
+      "name": "Freelance",
+      "position": "Desarrollador Front End",
+      "url": "https://www.fiverr.com/seevt",
+      "startDate": "11/2023",
+      "endDate": "12/2023",
+      "remote": true,
+      "remote_string": "Remoto",
+      "summary": "Mejora de diseño, optimización de código, sistema de estilos reutilizable, desarrollo de version móvil y migrado a Vue Composition API",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Freelance Fiverr",
+      "position": "Desarrollador Front End",
+      "url": "https://www.fiverr.com/seevt",
+      "remote": true,
+      "remote_string": "Remoto",
+      "startDate": "05/2023",
+      "endDate": "06/2023",
+      "summary": "Desarollo de de versión móvil utilizando Svelte/SveltKit y Firebase",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Freelance Fiverr",
+      "position": "Desarrollador Front End",
+      "remote": true,
+      "remote_string": "Remoto",
+      "startDate": "07/2023",
+      "endDate": "08/2023",
+      "summary": "Desarrollo de página de empresa desde cero haciendo uso de un diseño proporcionado por el equipo de dicha empresa, implementación de StoryBlok Headless CMS para reutilización y escalabilidad del front, optimización del rendimiento e integrar el stack con Nuxt JS/Vue",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+
+  "education_title": "Educación",
+  "education": [
+    {
+      "institution": "IES Pedro Soto de Rojas",
+      "url": "https://iespedrosoto.es/",
+      "area": "Bachiller en Ciencias Puras",
+      "studyType": null,
+      "startDate": null,
+      "endDate": "06/2019",
+      "score": null,
+      "courses": ["Secundaria Postobligatoria"]
+    },
+    {
+      "institution": "IES Pedro Soto de Rojas",
+      "url": "https://iespedrosoto.es/",
+      "area": "Educación Secundaria Obligatoria",
+      "studyType": null,
+      "startDate": null,
+      "endDate": "06/2017",
+      "score": null,
+      "courses": ["Secundaria"]
+    },
+    {
+      "institution": "FreeCodeCamp",
+      "url": "https://www.freecodecamp.org/Seevt",
+      "area": "Estructuras y Algoritmos de JavaScript",
+      "studyType": "Certificado",
+      "startDate": null,
+      "endDate": "11/2022",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "FreeCodeCamp",
+      "url": "https://www.freecodecamp.org/Seevt",
+      "area": "Desarrollo Web Responsivo",
+      "studyType": "Certificado",
+      "startDate": null,
+      "endDate": "11/2023",
+      "score": null,
+      "courses": ["HTML", "CSS"]
+    },
+    {
+      "institution": "udemy / ZeroToMastery",
+      "url": "https://zerotomastery.io/",
+      "area": "Desarrollo de aplicaciones web con Vue 3 JS",
+      "studyType": "Certificado",
+      "startDate": null,
+      "endDate": "01/2023",
+      "score": null,
+      "courses": ["Vue 3", "Pinia"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "0000-00-00",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "0000-00-00",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "0000-00-00",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills_title": "Habilidades",
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Vue/Nuxt.js",
+      "level": "Avanzado",
+      "keywords": ["Framework", "Framework", "SSR", "Static Generation"]
+    },
+
+    {
+      "name": "Svelte/SvelteKit.js",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Svelte Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Medio",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Astro",
+      "level": "Basico",
+      "keywords": ["Framework"]
+    },
+
+    {
+      "name": "Firebase",
+      "level": "Medio",
+      "keywords": ["Bases de Datos"]
+    },
+    {
+      "name": "OpenAI API",
+      "level": "Basico",
+      "keywords": ["API", "AI"]
+    },
+    {
+      "name": "SASS",
+      "level": "Basico",
+      "keywords": ["CSS", "CSS LIB"]
+    },
+    {
+      "name": "StoryBlok CMS",
+      "level": "Medio",
+      "keywords": ["CMS", "Headless CMS"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects_title": "Proyectos",
+  "projects": [
+    {
+      "name": "Svelte Weather",
+      "isActive": true,
+      "description": "Aplicacion del clima con fondo interactivo",
+      "highlights": [
+        "Proyecto Personal",
+        "Svelte",
+        "SvelteKit",
+        "JavaScript",
+        "WeatherAPI"
+      ],
+      "url": "https://weather.seevt.dev"
+    },
+    {
+      "name": "React Tetris",
+      "isActive": true,
+      "description": "Recreación del Tetris Clásico utilizando React.js",
+      "highlights": ["Proyecto Personal", "React", "Game", "JavaScript"],
+      "url": "https://tetris.seevt.dev/"
+    },
+    {
+      "name": "Chefy",
+      "isActive": false,
+      "description": "Red Social para compartir recetas de comida generadas con Inteligencia Articial (ChatGPT)",
+      "highlights": [
+        "Trabajo",
+        "Front-End Dev",
+        "Svelte",
+        "SvelteKit",
+        "TypeScript"
+      ],
+      "url": null
+    },
+    {
+      "name": "VueModal",
+      "isActive": true,
+      "description": "Componente modal de Vue.js reutilizable con flexibilidad de personalización y accesibilidad",
+      "highlights": ["Proyecto Personal", "Vue", "Componente", "TypeScript"],
+      "url": "https://github.com/Seevt/reusable-modal-vue3",
+      "github": "https://github.com/Seevt/reusable-modal-vue3"
+    },
+    {
+      "name": "QuizMeGPT",
+      "isActive": true,
+      "description": "Aplicacion web interactiva que genera pequeñas pruebas de selección multiple sobre el tema de tu preferencia utilizando chatGPT",
+      "highlights": [
+        "Trabajo",
+        "Front-End Dev",
+        "TypeScript",
+        "Vue",
+        "OpenAI API",
+        "Firebase"
+      ],
+      "url": "https://quizmegpt.seevt.dev",
+      "github": "https://quizmegpt.seevt.dev"
+    },
+    {
+      "name": "Deduce Data Solutions",
+      "isActive": true,
+      "description": "Pagina de Empresa y Blog de noticias",
+      "highlights": [
+        "Trabajo",
+        "Front-End Dev",
+        "Nuxt/Vue.js",
+        "StoryBlok CMS",
+        "JavaScript"
+      ],
+      "url": "https://deducedata.solutions/es/products"
+    }
+  ]
+}
