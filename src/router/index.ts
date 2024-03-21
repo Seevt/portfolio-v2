@@ -27,7 +27,7 @@ router.beforeEach((to, from, next) => {
     i18n.global.locale.value = locale;
     document.documentElement.lang = locale;
   } else {
-    next({ path: `/${i18n.global.fallbackLocale}` });
+    next({ path: `/${i18n.global.fallbackLocale.value}` });
     return;
   }
   next();
