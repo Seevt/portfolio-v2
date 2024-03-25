@@ -23,12 +23,25 @@ const router = createRouter({
 router.beforeEach((to, from, next) => {
   let locale = to.params
     .locale as (typeof i18n.global.availableLocales)[number];
+
   if (locale) {
     i18n.global.locale.value = locale;
     document.documentElement.lang = locale;
   } else {
-    next({ path: `/${i18n.global.fallbackLocale.value}` });
-    return;
+    const usersLang = window.navigator.language.split(
+      "-"
+    )[0] as (typeof i18n.global.availableLocales)[number];
+
+    if (i18n.global.availableLocales.includes(usersLang)) {
+      locale = usersLang;
+      i18n.global.locale.value = locale;
+      document.documentElement.lang = locale;
+      next({ path: `/${i18n.global.locale.value}` });
+      return;
+    } else {
+      next({ path: `/${i18n.global.fallbackLocale.value}` });
+      return;
+    }
   }
   next();
 });
