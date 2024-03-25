@@ -34,7 +34,7 @@
   "work": [
     {
       "name": "Freelance",
-      "position": "Desarrollador Front End",
+      "position": "Front End Developer",
       "url": "https://www.fiverr.com/seevt",
       "startDate": "11/2023",
       "endDate": "12/2023",
@@ -45,7 +45,7 @@
     },
     {
       "name": "Freelance Fiverr",
-      "position": "Desarrollador Front End",
+      "position": "Front End Developer",
       "url": "https://www.fiverr.com/seevt",
       "remote": true,
       "remote_string": "Remote",
@@ -56,7 +56,7 @@
     },
     {
       "name": "Freelance Fiverr",
-      "position": "Desarrollador Front End",
+      "position": "Front End Developer",
       "remote": true,
       "remote_string": "Remote",
       "startDate": "07/2023",
