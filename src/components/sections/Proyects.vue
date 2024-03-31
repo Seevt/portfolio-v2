@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import Section from '../Section.vue';
 import { computed } from 'vue'
+import { basics } from "@/locales/en.json"
+
 
 import { useI18n } from 'vue-i18n';
 
@@ -19,6 +21,12 @@ const projects = computed(() => i18n.tm('projects') as Project[])
 </script>
 <template>
     <Section :title="$t('projects_title')">
+        <h3 class="print">
+            {{ $t('projects_description') }}
+            <span>
+                {{ basics.url }}
+            </span>
+        </h3>
         <ul class="grid">
             <li v-for="project in projects">
                 <article>
@@ -123,5 +131,28 @@ ul.tags>li>span {
 a.url:hover {
     text-decoration: underline;
     cursor: pointer;
+}
+
+
+.print {
+    display: none;
+}
+
+h3.print {
+    font-size: var(--size--1);
+    color: hsl(var(--description-color));
+}
+
+
+h3.print>span {
+    text-decoration: underline;
+}
+
+@media print {
+    h3.print {
+        display: block;
+    }
+
+
 }
 </style>

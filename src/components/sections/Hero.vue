@@ -54,6 +54,7 @@ const Icon = (network: string) => SOCIAL_ICONS[network]
                 <ul class="print">
                     <li>{{ basics.email }}</li>
                     <li>{{ basics.phone }}</li>
+                    <li>{{ basics.url }}</li>
                 </ul>
             </article>
             <figure>

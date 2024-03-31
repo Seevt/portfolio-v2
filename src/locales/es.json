@@ -271,6 +271,7 @@
     }
   ],
   "projects_title": "Proyectos",
+  "projects_description": "Mas información en",
   "projects": [
     {
       "name": "Svelte Weather",
