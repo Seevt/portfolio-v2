@@ -273,6 +273,34 @@
   "projects_description": "For more information, visit:",
   "projects": [
     {
+      "name": "Deduce Data Solutions",
+      "isActive": true,
+      "description": "Brand Web App and Newsletter",
+      "highlights": [
+        "Work",
+        "Front-End Dev",
+        "Nuxt/Vue.js",
+        "StoryBlok CMS",
+        "JavaScript"
+      ],
+      "url": "https://deducedata.solutions/es/products"
+    },
+    {
+      "name": "QuizMeGPT",
+      "isActive": true,
+      "description": "Interactive Web App that generates quizes about your prefered topics using AI",
+      "highlights": [
+        "Work",
+        "Front-End Dev",
+        "TypeScript",
+        "Vue",
+        "OpenAI API",
+        "Firebase"
+      ],
+      "url": "https://quizmegpt.seevt.dev",
+      "github": "https://quizmegpt.seevt.dev"
+    },
+    {
       "name": "Svelte Weather",
       "isActive": true,
       "description": "Weather app with Interactive background",
@@ -293,6 +321,14 @@
       "url": "https://tetris.seevt.dev/"
     },
     {
+      "name": "VueModal",
+      "isActive": true,
+      "description": "Vue 3 modal component, flexible, customizable and accesible",
+      "highlights": ["Personal Project", "Vue", "Component", "TypeScript"],
+      "url": "https://github.com/Seevt/reusable-modal-vue3",
+      "github": "https://github.com/Seevt/reusable-modal-vue3"
+    },
+    {
       "name": "Chefy",
       "isActive": false,
       "description": "Social Media App to generate food recipes and share them with friends powered by ChatGPT API",
@@ -304,42 +340,6 @@
         "TypeScript"
       ],
       "url": null
-    },
-    {
-      "name": "VueModal",
-      "isActive": true,
-      "description": "Vue 3 modal component, flexible, customizable and accesible",
-      "highlights": ["Personal Project", "Vue", "Component", "TypeScript"],
-      "url": "https://github.com/Seevt/reusable-modal-vue3",
-      "github": "https://github.com/Seevt/reusable-modal-vue3"
-    },
-    {
-      "name": "QuizMeGPT",
-      "isActive": true,
-      "description": "Interactive Web App that generates quizes about your prefered topics using AI",
-      "highlights": [
-        "Work",
-        "Front-End Dev",
-        "TypeScript",
-        "Vue",
-        "OpenAI API",
-        "Firebase"
-      ],
-      "url": "https://quizmegpt.seevt.dev",
-      "github": "https://quizmegpt.seevt.dev"
-    },
-    {
-      "name": "Deduce Data Solutions",
-      "isActive": true,
-      "description": "Brand Web App and Newsletter",
-      "highlights": [
-        "Work",
-        "Front-End Dev",
-        "Nuxt/Vue.js",
-        "StoryBlok CMS",
-        "JavaScript"
-      ],
-      "url": "https://deducedata.solutions/es/products"
     }
   ]
 }

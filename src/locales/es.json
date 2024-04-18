@@ -274,52 +274,24 @@
   "projects_description": "Mas información en",
   "projects": [
     {
-      "name": "Svelte Weather",
+      "name": "Deduce Data Solutions",
       "isActive": true,
-      "description": "Aplicacion del clima con fondo interactivo",
+      "description": "Brand Web App and Newsletter",
       "highlights": [
-        "Proyecto Personal",
-        "Svelte",
-        "SvelteKit",
-        "JavaScript",
-        "WeatherAPI"
-      ],
-      "url": "https://weather.seevt.dev"
-    },
-    {
-      "name": "React Tetris",
-      "isActive": true,
-      "description": "Recreación del Tetris Clásico utilizando React.js",
-      "highlights": ["Proyecto Personal", "React", "Game", "JavaScript"],
-      "url": "https://tetris.seevt.dev/"
-    },
-    {
-      "name": "Chefy",
-      "isActive": false,
-      "description": "Red Social para compartir recetas de comida generadas con Inteligencia Articial (ChatGPT)",
-      "highlights": [
-        "Trabajo",
+        "Work",
         "Front-End Dev",
-        "Svelte",
-        "SvelteKit",
-        "TypeScript"
+        "Nuxt/Vue.js",
+        "StoryBlok CMS",
+        "JavaScript"
       ],
-      "url": null
-    },
-    {
-      "name": "VueModal",
-      "isActive": true,
-      "description": "Componente modal de Vue.js reutilizable con flexibilidad de personalización y accesibilidad",
-      "highlights": ["Proyecto Personal", "Vue", "Componente", "TypeScript"],
-      "url": "https://github.com/Seevt/reusable-modal-vue3",
-      "github": "https://github.com/Seevt/reusable-modal-vue3"
+      "url": "https://deducedata.solutions/es/products"
     },
     {
       "name": "QuizMeGPT",
       "isActive": true,
-      "description": "Aplicacion web interactiva que genera pequeñas pruebas de selección multiple sobre el tema de tu preferencia utilizando chatGPT",
+      "description": "Interactive Web App that generates quizes about your prefered topics using AI",
       "highlights": [
-        "Trabajo",
+        "Work",
         "Front-End Dev",
         "TypeScript",
         "Vue",
@@ -330,17 +302,45 @@
       "github": "https://quizmegpt.seevt.dev"
     },
     {
-      "name": "Deduce Data Solutions",
+      "name": "Svelte Weather",
       "isActive": true,
-      "description": "Pagina de Empresa y Blog de noticias",
+      "description": "Weather app with Interactive background",
       "highlights": [
-        "Trabajo",
-        "Front-End Dev",
-        "Nuxt/Vue.js",
-        "StoryBlok CMS",
-        "JavaScript"
+        "Personal Project",
+        "Svelte",
+        "SvelteKit",
+        "JavaScript",
+        "WeatherAPI"
       ],
-      "url": "https://deducedata.solutions/es/products"
+      "url": "https://weather.seevt.dev"
+    },
+    {
+      "name": "React Tetris",
+      "isActive": true,
+      "description": "Recreating the classic Tetris Game using React",
+      "highlights": ["Personal Project", "React", "Game", "JavaScript"],
+      "url": "https://tetris.seevt.dev/"
+    },
+    {
+      "name": "VueModal",
+      "isActive": true,
+      "description": "Vue 3 modal component, flexible, customizable and accesible",
+      "highlights": ["Personal Project", "Vue", "Component", "TypeScript"],
+      "url": "https://github.com/Seevt/reusable-modal-vue3",
+      "github": "https://github.com/Seevt/reusable-modal-vue3"
+    },
+    {
+      "name": "Chefy",
+      "isActive": false,
+      "description": "Social Media App to generate food recipes and share them with friends powered by ChatGPT API",
+      "highlights": [
+        "Work",
+        "Front-End Dev",
+        "Svelte",
+        "SvelteKit",
+        "TypeScript"
+      ],
+      "url": null
     }
   ]
 }
