@@ -33,47 +33,39 @@
   "experience_title": "Experience",
   "work": [
     {
-      "name": "Freelance",
-      "position": "Front End Developer",
-      "url": "https://www.fiverr.com/seevt",
-      "startDate": "11/2023",
-      "endDate": "12/2023",
+      "position": "Front-end Developer",
+      "company": "Deduce Data Solutions",
       "remote": true,
+      "remote_string": "Remote",
+      "work_type": "Contract",
+      "startDate": "05/2023",
+      "endDate": "12/2023",
+      "summary": "Development of a company website from scratch using a design provided by the company's team, implementation of StoryBlok Headless CMS for front-end reuse and scalability, performance optimization, and integration of the stack with Nuxt JS/Vue",
+      "highlights": ["Started the company"]
+    },
+    {
+      "position": "Front-end Developer",
+      "company": "QuizMeGPT",
+      "url": "https://www.fiverr.com/seevt",
+      "startDate": "12/2023",
+      "endDate": "04/2024",
+      "remote": true,
+      "work_type": "Contract",
       "remote_string": "Remote",
       "summary": "Design improvement, code optimization, reusable style system, mobile version development, and migration to Vue Composition API.",
       "highlights": ["Started the company"]
     },
     {
-      "name": "Freelance Fiverr",
-      "position": "Front End Developer",
+      "position": "Front-end Developer",
+      "company": "Chefy",
       "url": "https://www.fiverr.com/seevt",
       "remote": true,
       "remote_string": "Remote",
-      "startDate": "05/2023",
-      "endDate": "06/2023",
+      "work_type": "Contract",
+      "startDate": "12/2022",
+      "endDate": "03/2023",
       "summary": "Development of the mobile version using Svelte/SveltKit and Firebase",
       "highlights": ["Started the company"]
-    },
-    {
-      "name": "Freelance Fiverr",
-      "position": "Front End Developer",
-      "remote": true,
-      "remote_string": "Remote",
-      "startDate": "07/2023",
-      "endDate": "08/2023",
-      "summary": "Development of a company website from scratch using a design provided by the company's team, implementation of StoryBlok Headless CMS for front-end reuse and scalability, performance optimization, and integration of the stack with Nuxt JS/Vue",
-      "highlights": ["Started the company"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
   "education_title": "Education",

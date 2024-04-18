@@ -34,35 +34,38 @@
 
   "work": [
     {
-      "name": "Freelance",
-      "position": "Desarrollador Front End",
-      "url": "https://www.fiverr.com/seevt",
-      "startDate": "11/2023",
-      "endDate": "12/2023",
+      "position": "Desarrollador Front-end",
+      "company": "Deduce Data Solutions",
       "remote": true,
+      "remote_string": "Remoto",
+      "work_type": "Contrato",
+      "startDate": "05/2023",
+      "endDate": "12/2023",
+      "summary": "Deduce Data Solutions es una compañia española especializada en    Desarrollo de página de empresa desde cero haciendo uso de un diseño proporcionado por el equipo de dicha empresa, implementación de StoryBlok Headless CMS para reutilización y escalabilidad del front, optimización del rendimiento e integrar el stack con Nuxt JS/Vue",
+      "highlights": ["Started the company"]
+    },
+    {
+      "position": "Desarrollador Front-end",
+      "company": "QuizMeGPT",
+      "url": "https://www.fiverr.com/seevt",
+      "startDate": "12/2023",
+      "endDate": "04/2024",
+      "remote": true,
+      "work_type": "Contrato",
       "remote_string": "Remoto",
       "summary": "Mejora de diseño, optimización de código, sistema de estilos reutilizable, desarrollo de version móvil y migrado a Vue Composition API",
       "highlights": ["Started the company"]
     },
     {
-      "name": "Freelance Fiverr",
-      "position": "Desarrollador Front End",
+      "position": "Desarrollador Front-end",
+      "company": "Chefy",
       "url": "https://www.fiverr.com/seevt",
       "remote": true,
       "remote_string": "Remoto",
-      "startDate": "05/2023",
-      "endDate": "06/2023",
+      "work_type": "Contrato",
+      "startDate": "12/2022",
+      "endDate": "03/2023",
       "summary": "Desarollo de de versión móvil utilizando Svelte/SveltKit y Firebase",
-      "highlights": ["Started the company"]
-    },
-    {
-      "name": "Freelance Fiverr",
-      "position": "Desarrollador Front End",
-      "remote": true,
-      "remote_string": "Remoto",
-      "startDate": "07/2023",
-      "endDate": "08/2023",
-      "summary": "Desarrollo de página de empresa desde cero haciendo uso de un diseño proporcionado por el equipo de dicha empresa, implementación de StoryBlok Headless CMS para reutilización y escalabilidad del front, optimización del rendimiento e integrar el stack con Nuxt JS/Vue",
       "highlights": ["Started the company"]
     }
   ],
