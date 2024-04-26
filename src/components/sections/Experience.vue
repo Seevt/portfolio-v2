@@ -35,13 +35,39 @@ const work_arr = computed(() => i18n.tm("work") as Work[]);
       >
         <article>
           <div class="position">
-            <h3>
+            <h3 class="print">
+              {{ position }}, {{ company }} ({{ remote_string }})
+            </h3>
+
+            <h3 class="no-print">
               {{ position }} {{ " " }}
               <span class="remote-job">{{ work_type }}</span>
               <span v-if="remote" class="remote-job">{{ remote_string }}</span>
             </h3>
-            <span aria-role="date"> {{ startDate }}-{{ endDate }} </span>
+            <time class="no-print">
+              {{ startDate }} -
+              {{ endDate }}
+            </time>
           </div>
+          <time datetime="" class="print">
+            <span class="uppercase">
+              {{
+                Intl.DateTimeFormat(`${$i18n.locale}`, {
+                  month: "long",
+                }).format(new Date(startDate.split("/")[0]))
+              }}
+            </span>
+            {{ startDate.split("/")[1] }} -
+
+            <span class="uppercase">
+              {{
+                Intl.DateTimeFormat(`${$i18n.locale}`, {
+                  month: "long",
+                }).format(new Date(endDate.split("/")[0]))
+              }}
+            </span>
+            {{ endDate.split("/")[1] }}
+          </time>
           <h4>
             {{ company }}
           </h4>
@@ -105,7 +131,7 @@ article > .position {
   letter-spacing: 0.009px;
 }
 
-.position > span[aria-role="date"] {
+.position time {
   font-size: var(--size--2);
   font-weight: 400;
   opacity: 0.8;
@@ -122,5 +148,44 @@ h3 > .remote-job {
 
 article > h4 {
   font-size: var(--size--2);
+}
+
+h3.print {
+  display: none;
+}
+
+time.print {
+  display: none;
+}
+
+@media print {
+  time.no-print {
+    display: none;
+  }
+
+  time.print {
+    display: block;
+    font-size: var(--size--2);
+    font-weight: 500;
+  }
+
+  .uppercase {
+    text-transform: capitalize;
+  }
+
+  h3.print {
+    display: block;
+    font-size: var(--size--1);
+    font-weight: 600;
+  }
+
+  .remote-job {
+    display: none;
+  }
+
+  h3.no-print,
+  h4 {
+    display: none;
+  }
 }
 </style>

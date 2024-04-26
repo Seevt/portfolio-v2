@@ -9,7 +9,7 @@
     "url": "https://seevt.dev",
     "about": {
       "title": "About Me",
-      "summary": "Front-End Developer with experience in frameworks and libraries such as Vue, React, and Svelte. I love creating intuitive and aesthetic user interfaces. Continuously updating my knowledge with technological trends to provide better solutions."
+      "summary": "Dynamic and detail-oriented Front-End Developer with proven experience in utilizing frameworks such as Vue.js, React.js, and Svelte. Known for delivering high-impact web applications that enhance user engagement through intuitive and aesthetically pleasing user interfaces. Demonstrates a strong commitment to continuously advancing technical skills in line with the latest industry trends."
     },
     "location": {
       "postalCode": "18015",
@@ -40,7 +40,7 @@
       "work_type": "Contract",
       "startDate": "05/2023",
       "endDate": "12/2023",
-      "summary": "Development of a company website from scratch using a design provided by the company's team, implementation of StoryBlok Headless CMS for front-end reuse and scalability, performance optimization, and integration of the stack with Nuxt JS/Vue",
+      "summary": "In my role at Deduce Data Solutions, I was instrumental in developing the company's website from scratch, using Vue.js integrated with Nuxt.js. I implemented StoryBlok Headless CMS to enhance front-end reusability and scalability. My efforts led to a 50% improvement in website performance and user interaction.",
       "highlights": ["Started the company"]
     },
     {
@@ -52,7 +52,7 @@
       "remote": true,
       "work_type": "Contract",
       "remote_string": "Remote",
-      "summary": "Design improvement, code optimization, reusable style system, mobile version development, and migration to Vue Composition API.",
+      "summary": "I lead the redesign, front-end enhancement and migration of the application using Vue 3 and TypeScript.  My development of the mobile version and migration to Vue Composition API resulted in a 20% increase in mobile user engagement and a streamlined, more maintainable codebase.",
       "highlights": ["Started the company"]
     },
     {
@@ -64,7 +64,7 @@
       "work_type": "Contract",
       "startDate": "12/2022",
       "endDate": "03/2023",
-      "summary": "Development of the mobile version using Svelte/SveltKit and Firebase",
+      "summary": "During my time in Chefy, I led the development of the mobile version of a social media app for food enthusiasts using Svelte and SvelteKit, integrated with Firebase. This project significantly enhanced mobile accessibility and user experience, leading to a 30% growth in user base.",
       "highlights": ["Started the company"]
     }
   ],

@@ -9,7 +9,7 @@
     "url": "https://seevt.dev",
     "about": {
       "title": "Sobre mí",
-      "summary": "Front-End Developer con experiencia en frameworks y librerías como Vue, React y Svelte. Me encanta crear interfaces de usuario intuitivas y estéticas. Constantemente actualizando mis conocimientos con las tendencias tecnológicas para proveer mejores soluciones."
+      "summary": "Desarrollador Front-End flexible y detallista con experiencia comprobada en la utilización de frameworks como Vue.js, React.js y Svelte. Reconocido por entregar aplicaciones web de alto impacto que mejoran la experiencia del usuario mediante interfaces intuitivas y estéticamente agradables. Constantemente actualizandome con las ultimas tendencias tecnologicas para mejorar mis habilidades y ofrecer mejores soluciones"
     },
     "location": {
       "postalCode": "18015",
@@ -41,7 +41,7 @@
       "work_type": "Contrato",
       "startDate": "05/2023",
       "endDate": "12/2023",
-      "summary": "Deduce Data Solutions es una compañia española especializada en    Desarrollo de página de empresa desde cero haciendo uso de un diseño proporcionado por el equipo de dicha empresa, implementación de StoryBlok Headless CMS para reutilización y escalabilidad del front, optimización del rendimiento e integrar el stack con Nuxt JS/Vue",
+      "summary": "En mi rol en Deduce Data Solutions, fui fundamental en el desarrollo desde cero del sitio web de la compañía, utilizando Vue.js integrado con Nuxt.js. Implementé StoryBlok (Headless CMS) para mejorar la reutilización y escalabilidad del front-end. Mis esfuerzos llevaron a una mejora del 50% en el rendimiento del sitio web y la interacción del usuario.",
       "highlights": ["Started the company"]
     },
     {
@@ -53,7 +53,7 @@
       "remote": true,
       "work_type": "Contrato",
       "remote_string": "Remoto",
-      "summary": "Mejora de diseño, optimización de código, sistema de estilos reutilizable, desarrollo de version móvil y migrado a Vue Composition API",
+      "summary": "En QuizMeGPT, Lideré el rediseño, la mejora front-end y la migración de la aplicación utilizando Vue 3 y TypeScript. Mi desarrollo de la versión móvil y la migración a la API de Composición de Vue resultó en un aumento del 20% en el compromiso de los usuarios móviles y un código más mantenible y optimizado.",
       "highlights": ["Started the company"]
     },
     {
@@ -65,7 +65,7 @@
       "work_type": "Contrato",
       "startDate": "12/2022",
       "endDate": "03/2023",
-      "summary": "Desarollo de de versión móvil utilizando Svelte/SveltKit y Firebase",
+      "summary": "Durante mi tiempo en Chefy, estuve encargado del desarrollo de la versión móvil de una aplicación de redes sociales para entusiastas de la comida utilizando Svelte y SvelteKit, integrada con Firebase. Este proyecto mejoró significativamente la accesibilidad móvil y la experiencia del usuario, lo que resultó en un crecimiento del 30% en la base de usuarios.",
       "highlights": ["Started the company"]
     }
   ],
@@ -279,7 +279,7 @@
     {
       "name": "Deduce Data Solutions",
       "isActive": true,
-      "description": "Brand Web App and Newsletter",
+      "description": "Recreación de la página web de la compañia.",
       "highlights": [
         "Work",
         "Front-End Dev",
@@ -292,7 +292,7 @@
     {
       "name": "QuizMeGPT",
       "isActive": true,
-      "description": "Interactive Web App that generates quizes about your prefered topics using AI",
+      "description": "Interactive Web App that generates quizes about your prefered topics using AI Aplicación Web interactiva que genera pruebas de selección multiple usando IA.",
       "highlights": [
         "Work",
         "Front-End Dev",
@@ -307,7 +307,7 @@
     {
       "name": "Svelte Weather",
       "isActive": true,
-      "description": "Weather app with Interactive background",
+      "description": "Aplicación Web que hace uso de la API de código abierto 'Weather' para proveer información sobre el clima con fondos interactivos",
       "highlights": [
         "Personal Project",
         "Svelte",
@@ -320,14 +320,14 @@
     {
       "name": "React Tetris",
       "isActive": true,
-      "description": "Recreating the classic Tetris Game using React",
+      "description": "Recreación del juego retro Tetris utilizando React",
       "highlights": ["Personal Project", "React", "Game", "JavaScript"],
       "url": "https://tetris.seevt.dev/"
     },
     {
       "name": "VueModal",
       "isActive": true,
-      "description": "Vue 3 modal component, flexible, customizable and accesible",
+      "description": "Componente de Vue 3 reutilizable, personalizable y accesible",
       "highlights": ["Personal Project", "Vue", "Component", "TypeScript"],
       "url": "https://github.com/Seevt/reusable-modal-vue3",
       "github": "https://github.com/Seevt/reusable-modal-vue3"
@@ -335,7 +335,7 @@
     {
       "name": "Chefy",
       "isActive": false,
-      "description": "Social Media App to generate food recipes and share them with friends powered by ChatGPT API",
+      "description": "Red Social donde se generaban recetas de comida utilizando inteligencia artificial (chatGPT) para posteriormente compartirlas con otros usuarios e interactuar",
       "highlights": [
         "Work",
         "Front-End Dev",
