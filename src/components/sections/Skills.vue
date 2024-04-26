@@ -4,11 +4,13 @@ import { skills } from "@/locales/en.json";
 </script>
 <template>
   <Section :title="$t('skills_title')">
-    <ul class="skills-cluster">
-      <li class="list-item-box" v-for="skill in skills" :key="skill.name">
-        {{ skill.name }}
-      </li>
-    </ul>
+    <div style="page-break-inside: avoid">
+      <ul class="skills-cluster">
+        <li class="list-item-box" v-for="skill in skills" :key="skill.name">
+          {{ skill.name }}
+        </li>
+      </ul>
+    </div>
   </Section>
 </template>
 <style scoped>
