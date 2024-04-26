@@ -28,6 +28,7 @@ const education_arr = computed(() => i18n.tm("education") as Education[]);
           endDate,
           url,
         } in education_arr"
+        style="page-break-inside: avoid"
       >
         <article>
           <div class="title">
