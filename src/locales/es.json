@@ -280,27 +280,14 @@
       "name": "Deduce Data Solutions",
       "isActive": true,
       "description": "Recreación de la página web de la compañia.",
-      "highlights": [
-        "Work",
-        "Front-End Dev",
-        "Nuxt/Vue.js",
-        "StoryBlok CMS",
-        "JavaScript"
-      ],
+      "highlights": ["Work", "Front-End Dev", "Nuxt/Vue.js", "StoryBlok CMS"],
       "url": "https://deducedata.solutions/es/products"
     },
     {
       "name": "QuizMeGPT",
       "isActive": true,
-      "description": "Interactive Web App that generates quizes about your prefered topics using AI Aplicación Web interactiva que genera pruebas de selección multiple usando IA.",
-      "highlights": [
-        "Work",
-        "Front-End Dev",
-        "TypeScript",
-        "Vue",
-        "OpenAI API",
-        "Firebase"
-      ],
+      "description": " Aplicación Web interactiva que genera pruebas de selección multiple usando IA.",
+      "highlights": ["Work", "Front-End Dev", "Vue", "OpenAI API", "Firebase"],
       "url": "https://quizmegpt.seevt.dev",
       "github": "https://quizmegpt.seevt.dev"
     },
@@ -308,41 +295,29 @@
       "name": "Svelte Weather",
       "isActive": true,
       "description": "Aplicación Web que hace uso de la API de código abierto 'Weather' para proveer información sobre el clima con fondos interactivos",
-      "highlights": [
-        "Personal Project",
-        "Svelte",
-        "SvelteKit",
-        "JavaScript",
-        "WeatherAPI"
-      ],
+      "highlights": ["Personal Project", "Svelte", "SvelteKit", "WeatherAPI"],
       "url": "https://weather.seevt.dev"
     },
     {
       "name": "React Tetris",
       "isActive": true,
       "description": "Recreación del juego retro Tetris utilizando React",
-      "highlights": ["Personal Project", "React", "Game", "JavaScript"],
+      "highlights": ["Personal Project", "React", "Game"],
       "url": "https://tetris.seevt.dev/"
     },
     {
       "name": "VueModal",
       "isActive": true,
       "description": "Componente de Vue 3 reutilizable, personalizable y accesible",
-      "highlights": ["Personal Project", "Vue", "Component", "TypeScript"],
+      "highlights": ["Personal Project", "Vue", "Component"],
       "url": "https://github.com/Seevt/reusable-modal-vue3",
       "github": "https://github.com/Seevt/reusable-modal-vue3"
     },
     {
       "name": "Chefy",
       "isActive": false,
-      "description": "Red Social donde se generaban recetas de comida utilizando inteligencia artificial (chatGPT) para posteriormente compartirlas con otros usuarios e interactuar",
-      "highlights": [
-        "Work",
-        "Front-End Dev",
-        "Svelte",
-        "SvelteKit",
-        "TypeScript"
-      ],
+      "description": "Red Social donde se generaban recetas de comida utilizando IA para interactuar con otros usuarios",
+      "highlights": ["Work", "Front-End Dev", "Svelte", "SvelteKit"],
       "url": null
     }
   ]

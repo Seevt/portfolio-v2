@@ -157,7 +157,7 @@ h3.print > span {
   }
 
   .grid {
-    row-gap: 3px;
+    row-gap: 10px;
     column-gap: 10px;
   }
   .grid > :nth-child(-n + 3) {
