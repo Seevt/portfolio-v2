@@ -3,15 +3,15 @@ import Section from "../Section.vue";
 import { skills } from "@/locales/en.json";
 </script>
 <template>
-  <Section :title="$t('skills_title')">
-    <div style="page-break-inside: avoid">
+  <div style="page-break-inside: avoid">
+    <Section :title="$t('skills_title')">
       <ul class="skills-cluster">
         <li class="list-item-box" v-for="skill in skills" :key="skill.name">
           {{ skill.name }}
         </li>
       </ul>
-    </div>
-  </Section>
+    </Section>
+  </div>
 </template>
 <style scoped>
 .skills-cluster {
