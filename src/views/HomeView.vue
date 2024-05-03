@@ -34,7 +34,7 @@ import Skills from "@/components/sections/Skills.vue";
 }
 
 .stack-wrapper {
-  --gap: 2rem;
+  --gap: 2.5rem;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;

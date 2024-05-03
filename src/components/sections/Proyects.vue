@@ -18,7 +18,7 @@ type Project = {
 const projects = computed(() => i18n.tm("projects") as Project[]);
 </script>
 <template>
-  <Section :title="$t('projects_title')">
+  <Section style="page-break-inside: avoid" :title="$t('projects_title')">
     <h3 class="print">
       {{ $t("projects_description") }}
       <span>

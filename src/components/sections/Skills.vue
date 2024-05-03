@@ -21,7 +21,7 @@ import { skills } from "@/locales/en.json";
   gap: var(--space);
   justify-content: flex-start;
   align-items: center;
-  margin-top: calc(var(--inner-stack-spacing) * 1.2);
+  margin-top: calc(var(--inner-stack-spacing));
 }
 
 li.list-item-box {
