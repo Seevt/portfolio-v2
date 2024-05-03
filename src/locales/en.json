@@ -34,6 +34,17 @@
   "work": [
     {
       "position": "Front-end Developer",
+      "company": "Aizhak Nensey",
+      "remote": true,
+      "remote_string": "Remote",
+      "work_type": "Contract",
+      "startDate": "02/2022",
+      "endDate": "09/2023",
+      "summary": "In this position, I was hired to be part of a three-person team, Backend Developer, Designer and Front End. layed a key role in crafting front-end solutions. Collaborating closely with the designer, I translated creative concepts into functional interfaces, optimizing for performance and responsiveness.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "position": "Front-end Developer",
       "company": "Deduce Data Solutions",
       "remote": true,
       "remote_string": "Remote",
@@ -72,6 +83,16 @@
 
   "education": [
     {
+      "institution": "Univeristy of Granada",
+      "url": "https://www.ugr.es/",
+      "area": "Bachelor's degree in Chemistry",
+      "studyType": null,
+      "startDate": null,
+      "endDate": "06/2023",
+      "score": null,
+      "courses": ["University"]
+    },
+    {
       "institution": "IES Pedro Soto de Rojas",
       "url": "https://iespedrosoto.es/",
       "area": "Baccalaureate in Pure Sciences",
@@ -84,7 +105,7 @@
     {
       "institution": "IES Pedro Soto de Rojas",
       "url": "https://iespedrosoto.es/",
-      "area": "High School",
+      "area": "High School Degree",
       "studyType": null,
       "startDate": null,
       "endDate": "06/2017",
@@ -265,10 +286,17 @@
   "projects_description": "For more information, visit:",
   "projects": [
     {
+      "name": "Aizhak Portfolio",
+      "isActive": true,
+      "description": "Aizhak's Coffee Experience website is an interactive platform designed to showcase Aizhak's expertise in coffee",
+      "highlights": ["Work", "Vue.js", "Tailwind"],
+      "url": "https://aizhak.com/"
+    },
+    {
       "name": "Deduce Data Solutions",
       "isActive": true,
       "description": "Brand Web App and Newsletter",
-      "highlights": ["Work", "Front-End Dev", "Nuxt/Vue.js", "StoryBlok CMS"],
+      "highlights": ["Work", "Nuxt/Vue.js", "StoryBlok CMS"],
       "url": "https://deducedata.solutions/es/products"
     },
     {
@@ -300,13 +328,6 @@
       "highlights": ["Personal Project", "Vue", "Component"],
       "url": "https://github.com/Seevt/reusable-modal-vue3",
       "github": "https://github.com/Seevt/reusable-modal-vue3"
-    },
-    {
-      "name": "Chefy",
-      "isActive": false,
-      "description": "Social Media App to generate food recipes and share them with friends powered by ChatGPT API",
-      "highlights": ["Work", "Front-End Dev", "Svelte", "SvelteKit"],
-      "url": null
     }
   ]
 }

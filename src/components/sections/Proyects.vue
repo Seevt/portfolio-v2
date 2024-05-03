@@ -160,9 +160,13 @@ h3.print > span {
     row-gap: 10px;
     column-gap: 10px;
   }
-  .grid > :nth-child(-n + 3) {
+  /* .grid > :nth-child(-n + 3) {
     margin-bottom: 0px;
     background-color: red;
+  } */
+
+  ul.tags {
+    display: none;
   }
 }
 </style>

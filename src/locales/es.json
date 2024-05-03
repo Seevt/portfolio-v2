@@ -35,6 +35,17 @@
   "work": [
     {
       "position": "Desarrollador Front-end",
+      "company": "Aizhak Nensey",
+      "remote": true,
+      "remote_string": "Remoto",
+      "work_type": "Contrato",
+      "startDate": "02/2022",
+      "endDate": "09/2023",
+      "summary": "En esta posición, fui contratado para ser parte de un equipo de tres personas, Desarrollador de Backend, Diseñador y Front End. Jugué un papel clave en la creación de soluciones de front-end. Colaborando estrechamente con el diseñador, traduje conceptos creativos en interfaces funcionales, optimizando el rendimiento y la capacidad de respuesta.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "position": "Desarrollador Front-end",
       "company": "Deduce Data Solutions",
       "remote": true,
       "remote_string": "Remoto",
@@ -83,6 +94,16 @@
 
   "education_title": "Educación",
   "education": [
+    {
+      "institution": "Universidad de Granada",
+      "url": "https://www.ugr.es/",
+      "area": "Grado en Química",
+      "studyType": null,
+      "startDate": null,
+      "endDate": "06/2023",
+      "score": null,
+      "courses": ["Universidad"]
+    },
     {
       "institution": "IES Pedro Soto de Rojas",
       "url": "https://iespedrosoto.es/",
@@ -277,6 +298,13 @@
   "projects_description": "Mas información en",
   "projects": [
     {
+      "name": "Aizhak Portfolio",
+      "isActive": true,
+      "description": "Aizhak's Coffee Experience es una plataforma interactiva para demostrar el conocimiento de Aizhak con el Café",
+      "highlights": ["Work", "Vue.js", "Tailwind"],
+      "url": "https://aizhak.com/"
+    },
+    {
       "name": "Deduce Data Solutions",
       "isActive": true,
       "description": "Recreación de la página web de la compañia.",
@@ -312,13 +340,6 @@
       "highlights": ["Personal Project", "Vue", "Component"],
       "url": "https://github.com/Seevt/reusable-modal-vue3",
       "github": "https://github.com/Seevt/reusable-modal-vue3"
-    },
-    {
-      "name": "Chefy",
-      "isActive": false,
-      "description": "Red Social donde se generaban recetas de comida utilizando IA para interactuar con otros usuarios",
-      "highlights": ["Work", "Front-End Dev", "Svelte", "SvelteKit"],
-      "url": null
     }
   ]
 }

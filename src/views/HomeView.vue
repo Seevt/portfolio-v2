@@ -13,9 +13,9 @@ import Skills from "@/components/sections/Skills.vue";
       <div class="stack-wrapper">
         <Hero />
         <About />
-        <Proyects />
         <Skills />
         <Experience />
+        <Proyects />
         <Education />
       </div>
     </div>
@@ -34,7 +34,7 @@ import Skills from "@/components/sections/Skills.vue";
 }
 
 .stack-wrapper {
-  --gap: 2.5rem;
+  --gap: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;

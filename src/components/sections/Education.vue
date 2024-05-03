@@ -95,7 +95,7 @@ article > * {
 }
 
 article > * + * {
-  margin-top: calc(var(--inner-stack-spacing) * 2);
+  margin-top: calc(var(--inner-stack-spacing));
 }
 
 article > .title {

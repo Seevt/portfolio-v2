@@ -44,6 +44,7 @@ li.list-item-box {
   li.list-item-box {
     color: hsl(0, 0%, 10%);
     background-color: transparent;
+    line-height: 0.9;
   }
 
   li.list-item-box::marker {
