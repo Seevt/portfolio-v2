@@ -29,7 +29,7 @@ import Skills from "@/components/sections/Skills.vue";
 }
 
 .center-wrapper {
-  width: min(100%, 70ch);
+  width: min(100%, 75ch);
   margin-inline: auto;
 }
 
