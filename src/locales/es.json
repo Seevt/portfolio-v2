@@ -35,13 +35,25 @@
   "work": [
     {
       "position": "Desarrollador Front-end",
+      "company": "Dimpoint",
+      "url": "https://www.fiverr.com/seevt",
+      "startDate": "12/2023",
+      "endDate": "04/2024",
+      "remote": true,
+      "work_type": "Contrato",
+      "remote_string": "Remoto",
+      "summary": "En Dimpoint, Lideré el rediseño, la mejora front-end y la migración de la aplicación utilizando Vue 3 y TypeScript de la aplicación web 'QuizMeGPT'. Mi desarrollo de la versión móvil y la migración a la API de Composición de Vue resultó en un aumento del 20% en el compromiso de los usuarios móviles y un código más mantenible y optimizado.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "position": "Desarrollador Front-end",
       "company": "Aizhak Coffee",
       "remote": true,
       "remote_string": "Remoto",
       "work_type": "Contrato",
       "startDate": "02/2022",
       "endDate": "09/2022",
-      "summary": "En esta posición como Desarrollador Front-end, desempeñé un papel clave en la creación de soluciones de front-end. Colaboré estrechamente con el diseñador, el gerente de producto, el equipo de marketing y otros desarrolladores. Traduje conceptos creativos en interfaces funcionales, optimizando el rendimiento y la capacidad de respuesta.",
+      "summary": "En esta posición como Desarrollador Front-end, desempeñé un papel clave en la creación de soluciones utilizando Vue 3, GSAP, Tailwind, entre otras tecnologías. Colaboré estrechamente con el diseñador, el gerente de producto, el equipo de marketing y otros desarrolladores. Traduje conceptos creativos en interfaces funcionales, optimizando el rendimiento y la capacidad de respuesta.",
       "highlights": ["Started the company"]
     },
     {
@@ -55,28 +67,17 @@
       "summary": "En mi rol en Deduce Data Solutions, fui fundamental en el desarrollo desde cero del sitio web de la compañía, utilizando Vue.js integrado con Nuxt.js. Implementé StoryBlok (Headless CMS) para mejorar la reutilización y escalabilidad del front-end. Mis esfuerzos llevaron a una mejora del 50% en el rendimiento del sitio web y la interacción del usuario.",
       "highlights": ["Started the company"]
     },
+
     {
       "position": "Desarrollador Front-end",
-      "company": "QuizMeGPT",
-      "url": "https://www.fiverr.com/seevt",
-      "startDate": "12/2023",
-      "endDate": "04/2024",
-      "remote": true,
-      "work_type": "Contrato",
-      "remote_string": "Remoto",
-      "summary": "En QuizMeGPT, Lideré el rediseño, la mejora front-end y la migración de la aplicación utilizando Vue 3 y TypeScript. Mi desarrollo de la versión móvil y la migración a la API de Composición de Vue resultó en un aumento del 20% en el compromiso de los usuarios móviles y un código más mantenible y optimizado.",
-      "highlights": ["Started the company"]
-    },
-    {
-      "position": "Desarrollador Front-end",
-      "company": "Chefy",
+      "company": "Freelance",
       "url": "https://www.fiverr.com/seevt",
       "remote": true,
       "remote_string": "Remoto",
       "work_type": "Contrato",
       "startDate": "12/2022",
       "endDate": "03/2023",
-      "summary": "Durante mi tiempo en Chefy, estuve encargado del desarrollo de la versión móvil de una aplicación de redes sociales para entusiastas de la comida utilizando Svelte y SvelteKit, integrada con Firebase. Este proyecto mejoró significativamente la accesibilidad móvil y la experiencia del usuario, lo que resultó en un crecimiento del 30% en la base de usuarios.",
+      "summary": "Durante mi tiempo desarrollando Chefy, estuve encargado del desarrollo de la versión móvil de una aplicación de redes sociales para entusiastas de la comida utilizando Svelte y SvelteKit, integrada con Firebase. Este proyecto mejoró significativamente la accesibilidad móvil y la experiencia del usuario, lo que resultó en un crecimiento del 30% en la base de usuarios.",
       "highlights": ["Started the company"]
     }
   ],
