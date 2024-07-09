@@ -39,6 +39,7 @@
       "url": "https://www.fiverr.com/seevt",
       "startDate": "12/2023",
       "endDate": "04/2024",
+      "stillWorking": "Presente",
       "remote": true,
       "work_type": "Contrato",
       "remote_string": "Remoto",
@@ -299,7 +300,7 @@
   "projects_description": "Mas información en",
   "projects": [
     {
-      "name": "Aizhak Portfolio",
+      "name": "Aizhak Coffee",
       "isActive": true,
       "description": "Aizhak's Coffee Experience es una plataforma interactiva para demostrar el conocimiento de Aizhak con el Café",
       "highlights": ["Work", "Vue.js", "Tailwind"],
