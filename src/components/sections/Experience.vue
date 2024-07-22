@@ -53,6 +53,7 @@
             </time>
           </div>
           <time datetime="" class="print">
+            <!-- start date month -->
             <span class="uppercase">
               {{
                 Intl.DateTimeFormat(`${$i18n.locale}`, {
@@ -60,21 +61,31 @@
                 }).format(new Date(startDate.split("/")[0]))
               }}
             </span>
+            <!-- start date year -->
             {{ startDate.split("/")[1] }} -
 
-            <span class="uppercase">
-              {{
-                Intl.DateTimeFormat(`${$i18n.locale}`, {
-                  month: "long",
-                }).format(new Date(endDate.split("/")[0]))
-              }}
-            </span>
-            {{ endDate.split("/")[1] }}
+            <!-- end date month -->
+            <div class="inline" v-if="!Boolean(stillWorking)">
+              <span class="uppercase">
+                {{
+                  Intl.DateTimeFormat(`${$i18n.locale}`, {
+                    month: "long",
+                  }).format(new Date(endDate.split("/")[0]))
+                }}
+              </span>
+
+              <!-- end date year -->
+              {{ endDate.split("/")[1] }}
+            </div>
+
+            <div class="inline" v-else>
+              <span>{{ stillWorking }}</span>
+            </div>
           </time>
-          <h4>
+          <h4 class="company-name">
             {{ company }}
           </h4>
-          <p>
+          <p class="summary">
             {{ summary }}
           </p>
         </article>
@@ -190,5 +201,9 @@
     h4 {
       display: none;
     }
+  }
+
+  .inline {
+    display: inline;
   }
 </style>
