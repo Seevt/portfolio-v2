@@ -1,6 +1,9 @@
 <script setup lang="ts">
 import Section from "../Section.vue";
 import { skills } from "@/locales/en.json";
+import OtherSkills from "./OtherSkills.vue"
+
+
 </script>
 <template>
   <div style="page-break-inside: avoid">
@@ -10,6 +13,7 @@ import { skills } from "@/locales/en.json";
           {{ skill.name }}
         </li>
       </ul>
+      <OtherSkills />
     </Section>
   </div>
 </template>

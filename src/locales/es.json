@@ -34,52 +34,60 @@
 
   "work": [
     {
-      "position": "Desarrollador Front-end",
+      "position": "Front-end Developer",
       "company": "Dimpoint",
       "url": "https://www.fiverr.com/seevt",
-      "startDate": "12/2023",
-      "endDate": "04/2024",
+      "startDate": "09/2023",
+      "endDate": "",
       "stillWorking": "Presente",
       "remote": true,
-      "work_type": "Contrato",
-      "remote_string": "Remoto",
-      "summary": "En Dimpoint, Lideré el rediseño, la mejora front-end y la migración de la aplicación utilizando Vue 3 y TypeScript de la aplicación web 'QuizMeGPT'. Mi desarrollo de la versión móvil y la migración a la API de Composición de Vue resultó en un aumento del 20% en el compromiso de los usuarios móviles y un código más mantenible y optimizado.",
-      "highlights": ["Started the company"]
-    },
-    {
-      "position": "Desarrollador Front-end",
-      "company": "Aizhak Coffee",
-      "remote": true,
-      "remote_string": "Remoto",
-      "work_type": "Contrato",
-      "startDate": "02/2022",
-      "endDate": "09/2022",
-      "summary": "En esta posición como Desarrollador Front-end, desempeñé un papel clave en la creación de soluciones utilizando Vue 3, GSAP, Tailwind, entre otras tecnologías. Colaboré estrechamente con el diseñador, el gerente de producto, el equipo de marketing y otros desarrolladores. Traduje conceptos creativos en interfaces funcionales, optimizando el rendimiento y la capacidad de respuesta.",
-      "highlights": ["Started the company"]
-    },
-    {
-      "position": "Desarrollador Front-end",
-      "company": "Deduce Data Solutions",
-      "remote": true,
-      "remote_string": "Remoto",
-      "work_type": "Contrato",
-      "startDate": "05/2023",
-      "endDate": "12/2023",
-      "summary": "En mi rol en Deduce Data Solutions, fui fundamental en el desarrollo desde cero del sitio web de la compañía, utilizando Vue.js integrado con Nuxt.js. Implementé StoryBlok (Headless CMS) para mejorar la reutilización y escalabilidad del front-end. Mis esfuerzos llevaron a una mejora del 50% en el rendimiento del sitio web y la interacción del usuario.",
-      "highlights": ["Started the company"]
+      "work_type": "Contract",
+      "remote_string": "Remote",
+      "summary": "En mi puesto actual en Dimpoint Studios, estoy trabajando en un proyecto para renovar completamente e implementar un diseño de Illustrator para el portafolio de la empresa. Mi enfoque está en usar Nuxt y técnicas avanzadas de CSS para desarrollar una interfaz de usuario responsiva y visualmente atractiva. Anteriormente, en esta posición, desempeñé un papel clave en el desarrollo de soluciones utilizando Vue 3, GSAP y Tailwind para el desarrollo de Aizhak Coffee:",
+      "summary_bullet_points": [
+        "Colaboré estrechamente con el diseñador, el gerente de producto, el equipo de marketing y otros desarrolladores.",
+        "Traduje conceptos creativos en interfaces funcionales, optimizando el rendimiento y la capacidad de respuesta.",
+        "Implemente animaciones complejas haciendo uso de GSAP y la API de animaciones de Vue"
+      ],
+      "highlights": [
+        "Started the company"
+      ]
     },
 
     {
-      "position": "Desarrollador Front-end",
+      "position": "Front-end Developer",
+      "company": "Deduce Data Solutions",
+      "remote": true,
+      "remote_string": "Remote",
+      "work_type": "Contract",
+      "startDate": "06/2022",
+      "endDate": "08/2023",
+      "summary": "En mi rol en Deduce Data Solutions, fui instrumental en el desarrollo del sitio web de la compañía desde cero, utilizando Vue.js integrado con Nuxt.js y Storyblok CMS. En este proyecto, recibí un diseño de Figma para traducirlo a código y mejorarlo con dinámicas adicionales como bibliotecas de gráficos 3D. Implementé un sistema de paginación para el blog y, utilizando la API de Storyblok y desarrollé un sistema multilingüe para soportar varios idiomas.",
+      "summary_bullet_points": [],
+      "highlights": [
+        "Started the company"
+      ]
+    },
+
+    {
+      "position": "Jr. Front-end Developer",
       "company": "Freelance",
       "url": "https://www.fiverr.com/seevt",
       "remote": true,
-      "remote_string": "Remoto",
-      "work_type": "Contrato",
-      "startDate": "12/2022",
-      "endDate": "03/2023",
-      "summary": "Durante mi tiempo desarrollando Chefy, estuve encargado del desarrollo de la versión móvil de una aplicación de redes sociales para entusiastas de la comida utilizando Svelte y SvelteKit, integrada con Firebase. Este proyecto mejoró significativamente la accesibilidad móvil y la experiencia del usuario, lo que resultó en un crecimiento del 30% en la base de usuarios.",
-      "highlights": ["Started the company"]
+      "remote_string": "Remote",
+      "work_type": "",
+      "startDate": "03/2021",
+      "endDate": "01/2022",
+      "summary": "Durante mi tiempo como desarrollador freelance de front-end, dirigí y contribuí a múltiples proyectos que demostraron mi experiencia en tecnologías web modernas y diseño de experiencia de usuario. Los aspectos más destacados de mi trabajo incluyen:",
+      "summary_bullet_points": [
+        "Renové la marca de un sitio web implementando un nuevo esquema de colores y un sistema de temas CSS. Aseguré una identidad visual coherente y atractiva en todas las páginas y mejoré la experiencia del usuario y la accesibilidad.",
+        "Migré con éxito el sitio web existente de una iglesia a Subsplash CMS, rediseñé y organicé la información según los requisitos del cliente, mejorando la claridad y la navegación del usuario.",
+        "Desarrolle un sistema de eventos, correo electrónico y calendario utilizando las API de Subsplash.",
+        "Desarrollé una aplicación de redes sociales para entusiastas de la comida, enfocandome en la experiencia del usuario. Integré Firebase para una gestión de datos sin problemas y actualizaciones en tiempo real."
+      ],
+      "highlights": [
+        "Started the company"
+      ]
     }
   ],
   "volunteer": [
@@ -90,7 +98,9 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
     }
   ],
 
@@ -104,7 +114,9 @@
       "startDate": null,
       "endDate": "06/2023",
       "score": null,
-      "courses": ["Universidad"]
+      "courses": [
+        "Universidad"
+      ]
     },
     {
       "institution": "IES Pedro Soto de Rojas",
@@ -114,17 +126,9 @@
       "startDate": null,
       "endDate": "06/2019",
       "score": null,
-      "courses": ["Secundaria Postobligatoria"]
-    },
-    {
-      "institution": "IES Pedro Soto de Rojas",
-      "url": "https://iespedrosoto.es/",
-      "area": "Educación Secundaria Obligatoria",
-      "studyType": null,
-      "startDate": null,
-      "endDate": "06/2017",
-      "score": null,
-      "courses": ["Secundaria"]
+      "courses": [
+        "Secundaria Postobligatoria"
+      ]
     },
     {
       "institution": "FreeCodeCamp",
@@ -134,7 +138,9 @@
       "startDate": null,
       "endDate": "11/2022",
       "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
     },
     {
       "institution": "FreeCodeCamp",
@@ -144,7 +150,10 @@
       "startDate": null,
       "endDate": "11/2023",
       "score": null,
-      "courses": ["HTML", "CSS"]
+      "courses": [
+        "HTML",
+        "CSS"
+      ]
     },
     {
       "institution": "udemy / ZeroToMastery",
@@ -154,7 +163,10 @@
       "startDate": null,
       "endDate": "01/2023",
       "score": null,
-      "courses": ["Vue 3", "Pinia"]
+      "courses": [
+        "Vue 3",
+        "Pinia"
+      ]
     }
   ],
   "awards": [
@@ -187,17 +199,29 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
     },
 
     {
@@ -223,7 +247,12 @@
     {
       "name": "Vue/Nuxt.js",
       "level": "Avanzado",
-      "keywords": ["Framework", "Framework", "SSR", "Static Generation"]
+      "keywords": [
+        "Framework",
+        "Framework",
+        "SSR",
+        "Static Generation"
+      ]
     },
 
     {
@@ -240,54 +269,80 @@
     {
       "name": "React",
       "level": "Medio",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
     },
     {
       "name": "Astro",
       "level": "Basico",
-      "keywords": ["Framework"]
+      "keywords": [
+        "Framework"
+      ]
     },
 
     {
       "name": "Firebase",
       "level": "Medio",
-      "keywords": ["Bases de Datos"]
+      "keywords": [
+        "Bases de Datos"
+      ]
     },
     {
       "name": "OpenAI API",
       "level": "Basico",
-      "keywords": ["API", "AI"]
+      "keywords": [
+        "API",
+        "AI"
+      ]
     },
     {
       "name": "SASS",
       "level": "Basico",
-      "keywords": ["CSS", "CSS LIB"]
+      "keywords": [
+        "CSS",
+        "CSS LIB"
+      ]
     },
     {
       "name": "StoryBlok CMS",
       "level": "Medio",
-      "keywords": ["CMS", "Headless CMS"]
+      "keywords": [
+        "CMS",
+        "Headless CMS"
+      ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
     }
   ],
+  "languages_title": "Lenguajes",
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "Inglés",
+      "fluency": "B2"
     }
   ],
   "interests": [
     {
       "name": "Music",
-      "keywords": ["Ferrets", "Unicorns"]
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
     }
   ],
   "references": [
@@ -303,21 +358,47 @@
       "name": "Aizhak Coffee",
       "isActive": true,
       "description": "Aizhak's Coffee Experience es una plataforma interactiva para demostrar el conocimiento de Aizhak con el Café",
-      "highlights": ["Work", "Vue.js", "Tailwind"],
+      "highlights": [
+        "Work",
+        "Vue.js",
+        "Tailwind"
+      ],
       "url": "https://aizhak.com/"
+    },
+    {
+      "name": "Sanctuary Christian Center",
+      "isActive": true,
+      "description": "Este sitio web destaca la misión, los valores y las actividades comunitarias del centro, invitando a los visitantes a participar en la adoración y la comunión.",
+      "highlights": [
+        "Work",
+        "Subsplash",
+        "Headless CMS"
+      ],
+      "url": "https://thesanctuarychristiancenter.snappages.site/"
     },
     {
       "name": "Deduce Data Solutions",
       "isActive": true,
       "description": "Recreación de la página web de la compañia.",
-      "highlights": ["Work", "Front-End Dev", "Nuxt/Vue.js", "StoryBlok CMS"],
+      "highlights": [
+        "Work",
+        "Front-End Dev",
+        "Nuxt/Vue.js",
+        "StoryBlok CMS"
+      ],
       "url": "https://deducedata.solutions/es/products"
     },
     {
       "name": "QuizMeGPT",
       "isActive": true,
       "description": " Aplicación Web interactiva que genera pruebas de selección multiple usando IA.",
-      "highlights": ["Work", "Front-End Dev", "Vue", "OpenAI API", "Firebase"],
+      "highlights": [
+        "Work",
+        "Front-End Dev",
+        "Vue",
+        "OpenAI API",
+        "Firebase"
+      ],
       "url": "https://quizmegpt.seevt.dev",
       "github": "https://quizmegpt.seevt.dev"
     },
@@ -325,23 +406,24 @@
       "name": "Svelte Weather",
       "isActive": true,
       "description": "Aplicación Web que hace uso de la API de código abierto 'Weather' para proveer información sobre el clima con fondos interactivos",
-      "highlights": ["Personal Project", "Svelte", "SvelteKit", "WeatherAPI"],
+      "highlights": [
+        "Personal Project",
+        "Svelte",
+        "SvelteKit",
+        "WeatherAPI"
+      ],
       "url": "https://weather.seevt.dev"
     },
     {
       "name": "React Tetris",
       "isActive": true,
       "description": "Recreación del juego retro Tetris utilizando React",
-      "highlights": ["Personal Project", "React", "Game"],
+      "highlights": [
+        "Personal Project",
+        "React",
+        "Game"
+      ],
       "url": "https://tetris.seevt.dev/"
-    },
-    {
-      "name": "VueModal",
-      "isActive": true,
-      "description": "Componente de Vue 3 reutilizable, personalizable y accesible",
-      "highlights": ["Personal Project", "Vue", "Component"],
-      "url": "https://github.com/Seevt/reusable-modal-vue3",
-      "github": "https://github.com/Seevt/reusable-modal-vue3"
     }
   ]
 }

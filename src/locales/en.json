@@ -36,49 +36,57 @@
       "position": "Front-end Developer",
       "company": "Dimpoint",
       "url": "https://www.fiverr.com/seevt",
-      "startDate": "12/2023",
-      "endDate": "04/2024",
+      "startDate": "09/2023",
+      "endDate": "",
       "stillWorking": "Present",
       "remote": true,
       "work_type": "Contract",
       "remote_string": "Remote",
-      "summary": "I lead the redesign, front-end enhancement and migration of the application using Vue 3 and TypeScript.  My development of the mobile version and migration to Vue Composition API resulted in a 20% increase in mobile user engagement and a streamlined, more maintainable codebase.",
-      "highlights": ["Started the company"]
+      "summary": "In my current role at Dimpoint Studios, I am working on a project to completely revamp and implement an Illustrator design for the company's portfolio. My focus is on using Nuxt and advanced CSS techniques to develop a responsive and visually appealing user interface. Previously, In this position, I played a key role in developing solutions using Vue 3, GSAP, Tailwind for the development of Aizhak Coffee:",
+      "summary_bullet_points": [
+        "Collaborated closely with the designer, product manager, marketing, and other developers.",
+        "Translated creative concepts into functional interfaces, optimizing for performance and responsiveness.",
+        "I implemented complex animations using GSAP and the Vue animation API."
+      ],
+      "highlights": [
+        "Started the company"
+      ]
     },
-    {
-      "position": "Front-end Developer",
-      "company": "Aizhak Coffee",
-      "remote": true,
-      "remote_string": "Remote",
-      "work_type": "Contract",
-      "startDate": "02/2022",
-      "endDate": "09/2022",
-      "summary": "In this position I played a key role developing solutions using Vue 3, GSAP, Tailwind, among other technologies. I collaborated closely with the designer, product manager, marketing and other developers. Translated creative concepts into functional interfaces, optimizing for performance and responsiveness.",
-      "highlights": ["Started the company"]
-    },
+
     {
       "position": "Front-end Developer",
       "company": "Deduce Data Solutions",
       "remote": true,
       "remote_string": "Remote",
       "work_type": "Contract",
-      "startDate": "05/2023",
-      "endDate": "12/2023",
-      "summary": "In my role at Deduce Data Solutions, I was instrumental in developing the company's website from scratch, using Vue.js integrated with Nuxt.js. I implemented StoryBlok Headless CMS to enhance front-end reusability and scalability. My efforts led to a 50% improvement in website performance and user interaction.",
-      "highlights": ["Started the company"]
+      "startDate": "06/2022",
+      "endDate": "08/2023",
+      "summary": "In my role at Deduce Data Solutions, I was instrumental in developing the company's website from scratch, using Vue.js integrated with Nuxt.js and Storyblok CMS. In this project, I received a design from Figma to translate into code and enhance with additional dynamics such as 3D graphics libraries. I implemented a pagination system for the blog and, utilizing the Storyblok API and developed a multi-language system to support various languages.",
+      "summary_bullet_points": [],
+      "highlights": [
+        "Started the company"
+      ]
     },
 
     {
-      "position": "Front-end Developer",
+      "position": "Jr. Front-end Developer",
       "company": "Freelance",
       "url": "https://www.fiverr.com/seevt",
       "remote": true,
       "remote_string": "Remote",
-      "work_type": "Contract",
-      "startDate": "12/2022",
-      "endDate": "03/2023",
-      "summary": "During my time developing Chefy, I led the development of the mobile version of a social media app for food enthusiasts using Svelte and SvelteKit, integrated with Firebase. This project significantly enhanced mobile accessibility and user experience, leading to a 30% growth in user base.",
-      "highlights": ["Started the company"]
+      "work_type": "",
+      "startDate": "03/2021",
+      "endDate": "01/2022",
+      "summary": "During my time as a freelance front-end developer, I led and contributed to multiple impactful projects that showcased my expertise in modern web technologies and user experience design. Highlights of my work include:",
+      "summary_bullet_points": [
+        "Rebranded a website by implementing a new color scheme and CSS theming system. Ensured consistent and appealing visual indentity across all pages and improved the user experience and accesibility.",
+        "Successfully migrated the existing church website to Subsplash CMS, redesigned and organized information as per the client’s requirements, enhancing clarity and user navigation.",
+        "I added a events, email and calendar system consuming the Subsplash API’s.",
+        "Developed a social media app for food enthusiasts improving accessibility. Integrated Firebase for seamless data management and real-time updates."
+      ],
+      "highlights": [
+        "Started the company"
+      ]
     }
   ],
   "education_title": "Education",
@@ -87,32 +95,26 @@
     {
       "institution": "Univeristy of Granada",
       "url": "https://www.ugr.es/",
-      "area": "Bachelor's degree in Chemistry",
+      "area": "Degree in Chemistry",
       "studyType": null,
       "startDate": null,
       "endDate": "06/2023",
       "score": null,
-      "courses": ["University"]
+      "courses": [
+        "University"
+      ]
     },
     {
       "institution": "IES Pedro Soto de Rojas",
       "url": "https://iespedrosoto.es/",
-      "area": "Baccalaureate in Pure Sciences",
+      "area": "Bachelors in Pure Sciences",
       "studyType": null,
       "startDate": null,
       "endDate": "06/2019",
       "score": null,
-      "courses": ["Secundaria Postobligatoria"]
-    },
-    {
-      "institution": "IES Pedro Soto de Rojas",
-      "url": "https://iespedrosoto.es/",
-      "area": "High School Degree",
-      "studyType": null,
-      "startDate": null,
-      "endDate": "06/2017",
-      "score": null,
-      "courses": ["Secundaria"]
+      "courses": [
+        "Secundaria Postobligatoria"
+      ]
     },
     {
       "institution": "FreeCodeCamp",
@@ -122,7 +124,9 @@
       "startDate": null,
       "endDate": "11/2022",
       "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
     },
     {
       "institution": "FreeCodeCamp",
@@ -132,7 +136,10 @@
       "startDate": null,
       "endDate": "11/2023",
       "score": null,
-      "courses": ["HTML", "CSS"]
+      "courses": [
+        "HTML",
+        "CSS"
+      ]
     },
     {
       "institution": "udemy / ZeroToMastery",
@@ -142,7 +149,10 @@
       "startDate": null,
       "endDate": "01/2023",
       "score": null,
-      "courses": ["Vue 3", "Pinia"]
+      "courses": [
+        "Vue 3",
+        "Pinia"
+      ]
     }
   ],
   "awards": [
@@ -175,17 +185,29 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
     },
 
     {
@@ -211,7 +233,12 @@
     {
       "name": "Vue/Nuxt.js",
       "level": "Avanzado",
-      "keywords": ["Framework", "Framework", "SSR", "Static Generation"]
+      "keywords": [
+        "Framework",
+        "Framework",
+        "SSR",
+        "Static Generation"
+      ]
     },
 
     {
@@ -228,40 +255,63 @@
     {
       "name": "React",
       "level": "Medio",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
     },
     {
       "name": "Astro",
       "level": "Basico",
-      "keywords": ["Framework"]
+      "keywords": [
+        "Framework"
+      ]
     },
 
     {
       "name": "Firebase",
       "level": "Medio",
-      "keywords": ["Bases de Datos"]
+      "keywords": [
+        "Bases de Datos"
+      ]
     },
     {
       "name": "OpenAI API",
       "level": "Basico",
-      "keywords": ["API", "AI"]
+      "keywords": [
+        "API",
+        "AI"
+      ]
     },
     {
       "name": "SASS",
       "level": "Basico",
-      "keywords": ["CSS", "CSS LIB"]
+      "keywords": [
+        "CSS",
+        "CSS LIB"
+      ]
     },
     {
       "name": "StoryBlok CMS",
       "level": "Medio",
-      "keywords": ["CMS", "Headless CMS"]
+      "keywords": [
+        "CMS",
+        "Headless CMS"
+      ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
     }
   ],
+  "languages_title": "Languages",
   "languages": [
     {
       "language": "Spanish",
@@ -269,13 +319,16 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "B2"
     }
   ],
   "interests": [
     {
       "name": "Music",
-      "keywords": ["Ferrets", "Unicorns"]
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
     }
   ],
   "references": [
@@ -291,21 +344,46 @@
       "name": "Aizhak Coffee",
       "isActive": true,
       "description": "Aizhak's Coffee Experience website is an interactive platform designed to showcase Aizhak's expertise in coffee",
-      "highlights": ["Work", "Vue.js", "Tailwind"],
+      "highlights": [
+        "Work",
+        "Vue.js",
+        "Tailwind"
+      ],
       "url": "https://aizhak.com/"
+    },
+    {
+      "name": "Sanctuary Christian Center",
+      "isActive": true,
+      "description": "This website highlights the church mission, values, and community activities, inviting visitors to engage in worship and fellowship.",
+      "highlights": [
+        "Work",
+        "Subsplash",
+        "Headless CMS"
+      ],
+      "url": "https://thesanctuarychristiancenter.snappages.site/"
     },
     {
       "name": "Deduce Data Solutions",
       "isActive": true,
-      "description": "Brand Web App and Newsletter",
-      "highlights": ["Work", "Nuxt/Vue.js", "StoryBlok CMS"],
+      "description": "Company's Website and Newsletter",
+      "highlights": [
+        "Work",
+        "Nuxt/Vue.js",
+        "StoryBlok CMS"
+      ],
       "url": "https://deducedata.solutions/es/products"
     },
     {
       "name": "QuizMeGPT",
       "isActive": true,
       "description": "Interactive Web App that generates quizes about your prefered topics using AI",
-      "highlights": ["Work", "Front-End Dev", "Vue", "OpenAI API", "Firebase"],
+      "highlights": [
+        "Work",
+        "Front-End Dev",
+        "Vue",
+        "OpenAI API",
+        "Firebase"
+      ],
       "url": "https://quizmegpt.seevt.dev",
       "github": "https://quizmegpt.seevt.dev"
     },
@@ -313,23 +391,24 @@
       "name": "Svelte Weather",
       "isActive": true,
       "description": "Weather app with Interactive background",
-      "highlights": ["Personal Project", "Svelte", "SvelteKit", "WeatherAPI"],
+      "highlights": [
+        "Personal Project",
+        "Svelte",
+        "SvelteKit",
+        "WeatherAPI"
+      ],
       "url": "https://weather.seevt.dev"
     },
     {
       "name": "React Tetris",
       "isActive": true,
       "description": "Recreating the classic Tetris Game using React",
-      "highlights": ["Personal Project", "React", "Game"],
+      "highlights": [
+        "Personal Project",
+        "React",
+        "Game"
+      ],
       "url": "https://tetris.seevt.dev/"
-    },
-    {
-      "name": "VueModal",
-      "isActive": true,
-      "description": "Vue 3 modal component, flexible, customizable and accesible",
-      "highlights": ["Personal Project", "Vue", "Component"],
-      "url": "https://github.com/Seevt/reusable-modal-vue3",
-      "github": "https://github.com/Seevt/reusable-modal-vue3"
     }
   ]
 }
